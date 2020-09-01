@@ -1,6 +1,6 @@
 # Block-Chain-Python
 
-Creating a blockchain-style miner and wallet viewer to learn blockchain and cryptocurrency concepts.
+Creating a blockchain-style miner and wallet viewer to learn blockchain and cryptocurrency concepts.  The project has been split into three folders:
 
 **Client-Mining**
 
