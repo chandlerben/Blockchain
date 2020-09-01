@@ -2,7 +2,6 @@
 
 Creating a blockchain-style miner and wallet viewer to learn blockchain and cryptocurrency concepts.  The project has been split into three folders:
 
-Does this fix Github.
 
 **Basic_Block**
 
