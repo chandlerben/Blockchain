@@ -4,6 +4,8 @@ Creating a blockchain-style miner and wallet viewer to learn blockchain and cryp
 
 **Basic_Block**
 
+Exploration of a very basic blockchain.
+
 **Client-Mining**
 
 This is where a client can mine for cryptocurrency and can check answers that they find against the correct hash.
