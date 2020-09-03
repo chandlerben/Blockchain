@@ -2,6 +2,8 @@
 
 Creating a blockchain-style miner and wallet viewer to learn blockchain and cryptocurrency concepts.  The project has been split into three folders:
 
+**Basic_Block**
+
 **Client-Mining**
 
 This is where a client can mine for cryptocurrency and can check answers that they find against the correct hash.
